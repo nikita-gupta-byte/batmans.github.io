@@ -9,8 +9,9 @@ p{
 color:white;
 }
 #background-image{
-background-image :url("img/bat_cover.jpg");
-height: 350px;
+background: url("bat_cover.jpg");
+height: 400px;
+    width: 600px;
 padding-top: 50px;
 color: #fff;
 margin-top: 25px;

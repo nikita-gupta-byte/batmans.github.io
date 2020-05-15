@@ -8,7 +8,7 @@ overflow:auto;
 p{
 color:white;
 }
-#background-image{
+background-image{
 background: url("bat_cover.gif");
 height: 400px;
     width: 600px;
